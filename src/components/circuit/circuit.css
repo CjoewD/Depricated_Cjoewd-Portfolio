@@ -1,0 +1,9 @@
+canvas{
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: -1000;
+    overflow: hidden;
+}
