@@ -49,6 +49,7 @@
     width: 48%;
     bottom: 10%;
     right: 0;
+    border-radius: 5px 0 0 5px;
     box-sizing: border-box;
     padding: 40px;
     font-size: 1.4vw;

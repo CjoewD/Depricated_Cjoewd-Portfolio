@@ -73,6 +73,9 @@ li{
     margin: 20px 10px -10px 0;
     background-color: var(--color-white);
 }
+#play-button:hover{
+    border: 3px solid var(--color-yellow);
+}
 
 a #play-button{
     font-size: 18px;

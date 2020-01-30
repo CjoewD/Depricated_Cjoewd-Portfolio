@@ -5,5 +5,5 @@ module.exports = {
     "secondary": true,
     "imageCount": 16,
     "designText": "<a href=/external/design_observer><div id='play-button'> View the Website </div></a>",
-    "codingText": "<a href=/external/design_observer><div id='play-button'> View the Website </div></a> <a href='https://github.com/CjoewD/HTML-Design-Observer-Rework' target='_blank'><div id='play-button'> View GitHub Repo </div></a>"
+    "codingText": "<a href=/external/design_observer><div id='play-button' id='button-showcase-content'> View the Website </div></a> <a href='https://github.com/CjoewD/HTML-Design-Observer-Rework' target='_blank' id='button-showcase-content'><div id='play-button'> View GitHub Repo </div></a>"
 }

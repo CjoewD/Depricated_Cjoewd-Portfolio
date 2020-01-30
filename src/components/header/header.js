@@ -33,7 +33,7 @@ export default class Header extends Component {
                         </div>
                         <div className="header-info">
                             <h1><span className="yellow">"Hello, World!"</span></h1>
-                            <h2>Strive for growth in creativity and technology. I'm a Software Engineer and Graphic Designer who's passionate about making the world a better and more functional place.</h2>
+                            <h2>Strive for growth in creativity and technology. I'm a Software Engineer and Graphic Designer who's passionate about making the world a better, more functional, place.</h2>
                         </div>
                     </div>
                 );
